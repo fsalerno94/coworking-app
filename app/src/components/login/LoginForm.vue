@@ -29,7 +29,7 @@ async function login() {
   <div class="flex flex-col w-full gap-2">
     <div class="text-3xl font-medium justify-center text-black">
       <span>
-        Effettua il login con il tuo account
+        Effettua il login
         <span class="text-blue-water-500 font-bold">Goodplace</span>
       </span>
     </div>
